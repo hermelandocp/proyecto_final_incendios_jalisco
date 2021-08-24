@@ -1,0 +1,2 @@
+# proyecto_final_incendios_jalisco
+ Proyecto fundamento Geoinformatica
